@@ -1,0 +1,20 @@
+{
+  "name": "automation-po-orangehrm",
+  "version": "1.0.0",
+  "description": "\"Automatización de los módulos de la página OrangeHRM utilizando OP  en Cypress, actualizado a 30 de octubre de 2023.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "PO",
+    "Modulos."
+  ],
+  "author": "Maria Guevara Ruiz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
